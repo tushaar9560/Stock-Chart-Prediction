@@ -1,3 +1,5 @@
+# **Stock-Chart-Prediction**
+### Steps to follow
 1. Dataset Preparation
     Prepare your dataset, including images and bounding box annotations in a CSV file using annotEdit.py.
     Update the dataset paths in the config.py file.
